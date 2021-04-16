@@ -12,7 +12,7 @@ public class TestPoligonos {
 		System.out.println(c1.obtenerSuperficie());
 		
 		System.out.println(t1.obtenerSuperficie());
-
+		Hexagono h1 = new Hexagono();
 	}
 
 }
