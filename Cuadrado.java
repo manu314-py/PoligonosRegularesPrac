@@ -2,7 +2,7 @@ package poligonos;
 
 public class Cuadrado {
 	
-	public static final String COLOR_NEGRO = "Negro";
+	public static final String COLOR_NEGRO = "Negro you are racist";
 	public static final String COLOR_VERDE = "Verde";
 	public static final String COLOR_ROJO = "Rojo";
 	public static final String COLOR_AZUL = "Azul";
